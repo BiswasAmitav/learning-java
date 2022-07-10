@@ -12,6 +12,8 @@ public class MyThisKeyword {
     }
 
 
+
+
     MyThisKeyword(String firstName, String lastName){
         //HERE COMPILER WILL PRINT NULL VALUE ....TO OVEROCME THIS SITUATION WE NEED THIS KEYWORD
 //        firstName=firstName;
