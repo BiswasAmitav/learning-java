@@ -17,7 +17,7 @@ public class MyThisClass {
 
     MyThisClass(int age, String name){//BY USING THIS
         this.age=age;
-        this.name=age;
+        this.name=name;
     }
     void display(){
         System.out.println("Value:"+age+"Name:"+name);
