@@ -1,7 +1,7 @@
 package detailsAboutThisKeyword;
 
 import java.util.Scanner;
-public class BasicJavaVariable {
+public class PrimitiveVariable {
 
     public static void main(String[] args){
 
