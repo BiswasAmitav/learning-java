@@ -1,6 +1,10 @@
 package detailsAboutThisKeyword;
 
-class Animal
+class Animal{
+    void eat(){
+        System.out.println("First animals is eating bread.....");
+    }
+}
 
 class Dog extends Animal{
     void eat(){
