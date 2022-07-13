@@ -9,9 +9,9 @@ class Car{
         return type;
     }
 
-    public String getRevenueData(){
-        String data = "Revenue...!";
-    }
+//    public String getRevenueData(){
+//        String data = "Revenue";
+//    }
 
     private int calculateRevenue(){
         return 12000;
