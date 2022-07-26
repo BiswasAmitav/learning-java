@@ -11,6 +11,5 @@ public class AbstractClass {
         truck1.setEngine("electric");
 
         //System.out.println(car1);
-
     }
 }
